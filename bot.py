@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('📣 Channel', 'https://t.me/Telugu_chat_friendship'),
-        Button.url('📦 Source', 'https://github.com/ShikariBaaZ/MentionAll_Bot')
+        Button.url('📦 Source', 'https://t.me/ChinnuNetwork')
       ]
     )
   )
@@ -40,7 +40,7 @@ async def help(event):
     buttons=(
       [
         Button.url('📣 Channel', 'https://t.me/Telugu_chat_friendship'),
-        Button.url('📦 Source', 'https://github.com/ShikariBaaZ/MentionAll_Bot')
+        Button.url('📦 Source', 'https://t.me/ChinnuNetwork')
       ]
     )
   )
